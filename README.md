@@ -1,7 +1,7 @@
 # Autores:
  - @mistersoftware
 
-## 1 Apuntes del curso de copywriting y stroeytelling
+## 1 Apuntes del curso de copywriting y storytelling
 
 <!--
 párrafo corto que explica qué estas proponiendo
