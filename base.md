@@ -1,3 +1,24 @@
+<--
+Copyriting
+
+Es escribir para internet usando técnicas de redacción publicitaria que tienen por objetivo generar que el público haga una acción, que muchas veces será comprar nuestro producto. Cuando hacemos Copywriting vamos a estar constantemente persuadiendo a nuestros lectores con palabras.
+Storytelling
+
+La manera en que contamos historias de forma tal que podemos transmitir un mensaje al conectar con nuestra audiencia. Se puede hacer no solo escribiendo sino también de mil maneras distintas. Con esto nosotros crearemos emoción para enganchar al público.
+Voz de marca
+
+Tanto en el curso de Storytelling como en el de Estrategias para la creación de contenido vimos que para crear contenido vamos a tener 3 círculos: Why, How, What.
+Allí aprendí que el Why es el más importante porque es el que te da las razones para hacer lo que haces y sin importar cuales sean siempre habrán otras cosas que se relacionen y así con las mismas razones o valores podrás hacer muchas cosas en diferentes formatos.
+Yo creo la voz de marca es el comportamiento de una marca que va en consonancia con su Why, sus valores y a partir de allí acomoda toda la forma en la que crea su contenido (ya sea publicitario o no). Eso fue lo que entendí.
+Territorio de marca
+
+El espacio en el que se desenvuelve una marca a nivel emocional. Si tu marca quiere que la asocien con unos valores concretos pues ese será su territorio (aunque supongo que el producto o servicio a vender también influyen). Para esto hay que saber más que nada de Storytelling.
+Propuesta de valor
+
+Es lo que hará que el público te prefiera antes que a otros. Para esto se suelen usar las características, ventajas y beneficios
+
+-->
+
 
 _Anterior:_ ⏪ [_✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨_][url-indice]
 
