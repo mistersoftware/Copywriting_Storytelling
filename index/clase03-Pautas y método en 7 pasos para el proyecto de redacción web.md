@@ -2,8 +2,11 @@
 
 ## [Las 5 secciones principales de tu proyecto](https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=14)
 
-[![Página de inicio](https://via.placeholder.com/336x35/f14a23/fff?text=Página+de+inicio)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/hompeage) [![Página de suscripción](https://via.placeholder.com/336x35/a4dbc3/fff?text=Página+de+suscripción)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/squeeze-page) [![Sección sobre mi](https://via.placeholder.com/336x35/e6b066/fff?text=Sección+sobre+mi)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/about-me-us)
-[![Servicios](https://via.placeholder.com/336x35/b59ef8/fff?text=Servicios)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/services) [![Contacto](https://via.placeholder.com/336x35/5486e3/fff?text=Contacto)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/contact)
+[![Página de inicio](https://via.placeholder.com/336x35/f14a23/fff?text=Página+de+inicio)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/hompeage) 
+[![Página de suscripción](https://via.placeholder.com/336x35/a4dbc3/444?text=Página+de+suscripción)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/squeeze-page) 
+[![Sección sobre mi](https://via.placeholder.com/336x35/e6b066/fff?text=Sección+sobre+mi)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/about-me-us)
+[![Servicios](https://via.placeholder.com/336x35/b59ef8/fff?text=Servicios)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/services) 
+[![Contacto](https://via.placeholder.com/336x35/5486e3/fff?text=Contacto)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/contact)
 
 ## [7 Fases para escribir](https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=64)
 
@@ -60,28 +63,5 @@ Crea una carpeta con el nombre [MIS TEXTOS WEB](https://github.com/mistersoftwar
 > Sección sobre mi / nosotros #e6b066
 > Sección de servicios #b59ef8
 > Sección de contacto #5486e3
-
--->
-
-
-[📖][url-textos] [📷][url-imagenes] [🎬][url-animaciones] [🍕][url-emojis] [🆎][url-variables] [🔲][url-botones] [🌈][url-colores] [☑️][url-tablas] [📺][url-videos]  [🔣][url-ascii] [➗][url-matematicas]
-
-
-Hecho con el 💚 en el 2K20. 
-
-
-[url-indice]: https://platzi.com/blog/escribe-textos-geniales-con-markdown "✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨"
-[url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨"
-[url-imagenes]: https://platzi.com/comunidad/integrar-imagenes-en-tus-comentarios-o-tutoriales-con-markdown/ "✍️📷 Integrar imágenes en tus comentarios o tutoriales con Markdown 👨‍🎨👩‍🎨"
-[url-animaciones]: https://platzi.com/comunidad/dale-vida-y-movimiento-a-tus-aportes-con-animaciones-con-markdown/ "✍️🎬 Dale vida y movimiento a tus aportes con animaciones con Markdown 👨‍🎨👩‍🎨"
-[url-emojis]: https://platzi.com/comunidad/expresate-con-emojis-con-markdown/ "✍️🍕 Exprésate con Emojis con Markdown 👨‍🎨👩‍🎨"
-[url-variables]: https://platzi.com/comunidad/agiliza-tu-escritura-con-variables-don-t-repeat-yourself-con-markdown/ "✍️🆎 Agiliza tu escritura con variables Don´t repeat yourself con Markdown 👨‍🎨👩‍🎨"
-[url-botones]: https://platzi.com/comunidad/inserta-botones-para-facilitar-la-navegación-de-tus-lectores-con-markdown/ "✍️🔲 Inserta botones para facilitar la navegación de tus lectores con Markdown 👨‍🎨👩‍🎨"
-[url-colores]: https://platzi.com/comunidad/color-y-alegria-en-tus-aportes-con-markdown/ "✍️🌈 Color y alegría en tus aportes con Markdown 👨‍🎨👩‍🎨"
-[url-tablas]: https://platzi.com/comunidad/tablas-y-listas-tan-facil-como-nunca-lo-has-visto-con-markdown/ "✍️☑️ Tablas y listas tan fácil como nunca lo has visto con Markdown 👨‍🎨👩‍🎨"
-[url-videos]: https://platzi.com/comunidad/incrusta-videos-en-tus-aportes-para-platzi-y-un-tip-para-incluirlos-en-github-con-markdown/ "✍️📺 Incrusta videos en tus aportes en Platzi y un tip para incluirlos en GitHub con Markdown 👨‍🎨👩‍🎨"
-[url-ascii]: https://platzi.com/comunidad/ascii-art-branding-en-tu-codigo-con-markdown/ "✍️🔣 ASCII Art: branding en tu código con Markdown 👨‍🎨👩‍🎨"
-[url-matematicas]: https://platzi.com/comunidad/bonus-inserta-formulas-matematicas-creadas-en-latex-con-markdown/ "✍️➗ Bonus: Inserta fórmulas matemáticas creadas en laTex con Markdown 👨‍🎨👩‍🎨"
-[url-emojis-todos]: https://platzi.com/comunidad/listado-completo-de-emojis-en-markdown/ "✍️😍 Listado completo de emojis en Markdown 👨‍🎨👩‍🎨"
 
 
