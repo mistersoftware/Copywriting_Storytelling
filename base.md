@@ -17,6 +17,66 @@ Propuesta de valor
 
 Es lo que hará que el público te prefiera antes que a otros. Para esto se suelen usar las características, ventajas y beneficios
 
+Pautas y método en 7 pasos para el proyecto de redacción web
+https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=null
+
+## Las 5 secciones principales de tu proyecto
+https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=14
+
+
+Página de inicio
+Página de suscripción
+Sección sobre mi / nosotros
+Sección de servicios
+Sección de contacto
+
+## 7 Fases para escribir
+https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=64
+
+1. Documentación
+1. Investigación
+1. Análisis
+1. Inspiración
+1. Redacción
+1. Corrección
+1. Testeo
+
+## 1 Documentación
+https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=115
+
+Seleccionar todo el contenido que tengas relacionado con tu empresa o proyecto. Empieza a escribir, busca en tus correos electronicos... incluso en las servilletas. Nadie inicia un proyecto sin escribir algo. Si no lo tienes comienza a redactar de manera automatica, para tener el punto de inicio para la fase dos.
+
+## 2 Investigación
+
+Una vez tengas ya todos los contenidos, deberas ir leyendo las ideas principales de esos textos.
+
+## 3 Análisis
+
+Lee en voz alta para identificar de manera mas sencilla las ideas y verbos que se repiten y de que manera comunicas.
+
+## 4 Inspiración
+
+No te inspires en paginas de tu competencia. Si estas en un país puedes inspirarte en profesionales de otro país. Incluso tambien puedes inspirarte en otros sectores.
+
+## 5 Redacción
+
+Realiza todo el trabajo previo. Ahora solo llenarás huecos.
+
+## 6 Corrección
+
+No la hagas de inmediato. Deja que pasen varios dias para verlo con otros ojos.
+
+
+## 7 Testeo
+
+Lo que no se mide no existe.
+Cursos de Platzi de testeo
+
+## Desafio
+
+Redacta un texto de 300 palabras explicando tu negocio y aplicando el método en 7 pasos
+
+
 -->
 
 
