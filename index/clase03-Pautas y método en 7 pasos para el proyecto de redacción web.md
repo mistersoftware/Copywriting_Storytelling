@@ -1,9 +1,9 @@
-## [Pautas y método en 7 pasos para el proyecto de redacción web](https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=1)
+## [Pautas y método en 7 pasos para el proyecto de redacción web](https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/)
 
 ## [Las 5 secciones principales de tu proyecto](https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=14)
 
-[![url--1](https://via.placeholder.com/336x35/f14a23/fff?text=Página+de+inicio)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/hompeage) [![url--2](https://via.placeholder.com/336x35/a4dbc3/fff?text=Página+de+suscripción)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/squeeze-page) [![url--3](https://via.placeholder.com/336x35/e6b066/fff?text=Sección+sobre+mi)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/about-me-us)
-[![url--4](https://via.placeholder.com/336x35/b59ef8/fff?text=Servicios)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/services) [![url--5](https://via.placeholder.com/336x35/5486e3/fff?text=Contacto)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/contact)
+[![Página de inicio](https://via.placeholder.com/336x35/f14a23/fff?text=Página+de+inicio)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/hompeage) [![Página de suscripción](https://via.placeholder.com/336x35/a4dbc3/fff?text=Página+de+suscripción)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/squeeze-page) [![Sección sobre mi](https://via.placeholder.com/336x35/e6b066/fff?text=Sección+sobre+mi)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/about-me-us)
+[![Servicios](https://via.placeholder.com/336x35/b59ef8/fff?text=Servicios)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/services) [![Contacto](https://via.placeholder.com/336x35/5486e3/fff?text=Contacto)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/contact)
 
 ## [7 Fases para escribir](https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=64)
 
@@ -69,48 +69,6 @@ Crea una carpeta con el nombre [MIS TEXTOS WEB](https://github.com/mistersoftwar
 
 Hecho con el 💚 en el 2K20. 
 
-[⚫][url-repositorio]
-
-
-
-[url-repositorio]: https://github.com/mistersoftware/Crea-aportes-geniales-en-Platzi-con-Markdown/blob/master/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown.md "Código fuente de esta publicación en GitHub"
-
-[url-dillinger]: https://dillinger.io/ "Editor en línea de Markdown"
-[url-stackedit]: https://stackedit.io/app#/ "Editor en línea de Markdown"
-[url-imgur]: https://imgur.com/ "Servicio gratuito de imágenes de Reddit"
-[url-recordit]: https://recordit.co/ "Graba tu pantalla"
-[url-asciinema]: https://itsfoss.com/asciinema-record-terminal/ "Copia el texto desde el video a la terminal"
-[url-codecogs]: https://www.codecogs.com/latex/eqneditor.php "Convierte código latex a imágenes"
-[url-rmarkdown]: https://rmarkdown.rstudio.com/ "una versión extendida de Markdown"
-[url-traduccion-hipotesis]: https://platzi.com/tutoriales/1319-discretas/6238-hipotesis-de-riemann-traduccion-al-espanol/ "Traducción Hipótesis"
-[url-overleaf]: https://www.overleaf.com/ "Código laTex en la nube"
-[url-medium]: https://medium.com/@luiscarlos_40534/sobre-la-cantidad-de-n%C3%BAmeros-primos-por-debajo-de-una-cantidad-dada-%C3%BCber-die-anzahl-der-799ff571dd9 "Traducccion de la hipotesis en Medium"
-[url-mistersoftware]: https://github.com/mistersoftware "Sigueme en GitHub"
-[url-luisca]: https://platzi.com/@luisca "Perfil en Platzi"
-
-
-[url-img-servidores]: https://i.imgur.com/xsquSxI.gif "Servidores A B C"
-[url-img-casco]: https://i.imgur.com/b1kbwbR.gif "Casco"
-[url-img-subir-imagen]: https://i.imgur.com/XXBeF2X.gif "Como subir imágenes en Platzi"
-[url-img-learning]: https://static.platzi.com/media/learningpath/banners/1c4f4add-87b9-44cc-ba30-4a8a134bf76e.jpg "Learning path"
-[url-img-ecuacion]: https://i.imgur.com/P4PL4vb.gif "Ecuacion en laTex"
-[url-img-codecogs]: https://i.imgur.com/t1bOxue.png "codecogs"
-[url-img-escritura]: https://i.imgur.com/3gtTnRU.gif "animación pluma"
-[url-img-vistoporjuan]: https://i.imgur.com/W0D6elt.gif "Subir imagen en Platzi"
-[url-img-badge-slack]: https://static.platzi.com/media/achievements/badges-comunicacion-slack-60710bd2-a4fd-49e6-86af-bb12ed8e7417.png "bade slack"
-[url-img-badge-escritura]: https://static.platzi.com/media/achievements/badge-escritura-online-1-ad291a75-10e8-426e-841d-fe66e340ccb6.png "badge escritura"
-[url-ejemplo-color]: https://via.placeholder.com/75x16/98ca3f/444?text=Color "Color"
-[url-ejemplo-boton]: https://via.placeholder.com/75x16/444/fcfcfc?text=Botones "Botones"
-[url-img-proceso-md]: https://i.imgur.com/naN0LfO.png "Proceso de renderizado en Markdown"
-[url-img-ascii]: https://i.imgur.com/DNgcFgx.png "Logo Platzi en ascii"
-
-
-[url-platzi]: https://platzi.com/cursos "Nunca pares de aprender"
-[url-connect]: https://platzi.com/empleos/ "Platzi Connect"
-[url-curso-git]: https://platzi.com/clases/git-github/ "Curso Profesional de Git y GitHub"
-[url-curso-slack]: https://platzi.com/clases/slack/ "Curso de Comunicación Online con Slack"
-[url-curso-escritura]: https://platzi.com/clases/escritura-online/ "Curso de Escritura Online"
-[url-pulse-editor]: https://platzi.com/blog/presentamos-pulse-editor/ "El sabor personalizado de Markdown en Platzi"
 
 [url-indice]: https://platzi.com/blog/escribe-textos-geniales-con-markdown "✍️💡 Escribe textos geniales con Markdown 👨‍🎨👩‍🎨"
 [url-textos]: https://platzi.com/comunidad/formatos-de-texto-citas-enlaces-y-codigo-para-mejorar-tus-aportes-con-markdown/ "✍️📖 Formatos de texto, citas, enlaces y código para mejorar tus aportes con Markdown 👨‍🎨👩‍🎨"
