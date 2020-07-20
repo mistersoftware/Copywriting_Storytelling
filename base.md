@@ -21,7 +21,7 @@ Es lo que hará que el público te prefiera antes que a otros. Para esto se suel
 
 ## [Las 5 secciones principales de tu proyecto](https://platzi.com/clases/1594-copy-storytelling/20463-pautas-y-metodo-en-7-pasos-para-el-proyecto-de-red/?time=14)
 
-[![url--1](https://via.placeholder.com/336x35/#f14a23/fff?text=Página+de+inicio)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/hompeage) [![url--2](https://via.placeholder.com/336x35/a4dbc3/fff?text=Página+de+suscripción)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/squeeze-page) [![url--3](https://via.placeholder.com/336x35/e6b066/fff?text=Sección+sobre+mi)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/about-me-us)
+[![url--1](https://via.placeholder.com/336x35/f14a23/fff?text=Página+de+inicio)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/hompeage) [![url--2](https://via.placeholder.com/336x35/a4dbc3/fff?text=Página+de+suscripción)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/squeeze-page) [![url--3](https://via.placeholder.com/336x35/e6b066/fff?text=Sección+sobre+mi)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/about-me-us)
 [![url--4](https://via.placeholder.com/336x35/b59ef8/fff?text=Servicios)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/services) [![url--5](https://via.placeholder.com/336x35/5486e3/fff?text=Contacto)](https://github.com/mistersoftware/copywriting_storytelling/tree/master/contact)
 
 Página de inicio #f14a23
