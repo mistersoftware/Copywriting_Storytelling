@@ -6,7 +6,7 @@
 <!--
 párrafo corto que explica qué estas proponiendo
 -->
-En este repositorio se incluyen mis apuntes y pruebas realizadas en el curso.
+En este repositorio se incluyen mis apuntes y pruebas realizadas en el curso. Cuando abres el achivo para edición puedes acceder a contenido guia adicional.
 
 ## 2 Motivación
 
